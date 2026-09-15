@@ -38,7 +38,7 @@ console.log(newJeans);
 var name = "코드팩토리"; // 선언과 할당을 동시에
 console.log(name);
 
-let girlFriend; // 선언만
+let girlFriend; // 선언만: undefined
 console.log(girlFriend);
 
 // const girlFriend2; // const는 할당을 해야 한다.
